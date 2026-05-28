@@ -80,6 +80,6 @@ Study-Flow
 
 ## 📫 Connect With Me
 
-- LinkedIn: ADD YOUR LINK
+- LinkedIn: https://www.linkedin.com/in/nandhini-priyadarshini-p-a14b432a0/
 - GitHub: https://github.com/nandhini-np
 
