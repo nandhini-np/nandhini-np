@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Nandhini Priyadarshini P 👋
 
-<!--
-**nandhini-np/nandhini-np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Computer Science and Engineering Student  
+💻 Aspiring AI Engineer | Cybersecurity Enthusiast | Full Stack Developer  
+🌱 Currently learning Machine Learning and Offensive Security  
+🚀 Building impactful projects in AI, Security, and Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Studying at University College of Engineering Nagercoil
+- 🔐 Interested in Cybersecurity and Red Teaming
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌐 Building Full Stack applications using Java and Spring Boot
+- 🏆 NSS Best Volunteer Award Winner
+- 🌍 Attended National Integration Camp in Assam
+- 🗣️ Fluent in Tamil, English, and Hindi
+- 🇩🇪 Goethe Institute A2 German Certified
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- C
+- SQL
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- React JS
+- Node JS
+- Spring Boot
+
+### Databases
+- SQLite
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Linux
+
+---
+
+## 🚀 Current Focus
+
+- Machine Learning
+- AI Projects
+- Cybersecurity Labs
+- Full Stack Development
+- Open Source Contributions
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Project
+Coming Soon...
+
+### 🔐 Cybersecurity Project
+Coming Soon...
+
+### 🌐 Full Stack Project
+Study-Flow
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhini-np&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: ADD YOUR LINK
+- GitHub: https://github.com/nandhini-np
+
