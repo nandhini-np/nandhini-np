@@ -1,85 +1,115 @@
-# Hi, I'm Nandhini Priyadarshini P 👋
+<h1 align="center">Hi 👋, I'm Nandhini Priyadarshini</h1>
 
-🎓 B.E Computer Science and Engineering Student  
-💻 Aspiring AI Engineer | Cybersecurity Enthusiast | Full Stack Developer  
-🌱 Currently learning Machine Learning and Offensive Security  
-🚀 Building impactful projects in AI, Security, and Web Development  
+<h3 align="center">
+AI Enthusiast • Cybersecurity Aspirant • Full Stack Developer
+</h3>
+
+<p align="center">
+Building intelligent and secure solutions for real-world challenges.
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Studying at University College of Engineering Nagercoil
-- 🔐 Interested in Cybersecurity and Red Teaming
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌐 Building Full Stack applications using Java and Spring Boot
-- 🏆 NSS Best Volunteer Award Winner
-- 🌍 Attended National Integration Camp in Assam
-- 🗣️ Fluent in Tamil, English, and Hindi
-- 🇩🇪 Goethe Institute A2 German Certified
+🎓 B.E. Computer Science and Engineering Student
+
+🔐 Passionate about Cybersecurity and Ethical Hacking
+
+🤖 Exploring Artificial Intelligence and Machine Learning
+
+🌐 Building Full Stack Applications
+
+🏆 Best NSS Volunteer Award Recipient
+
+🌱 Currently learning:
+- Machine Learning
+- Cybersecurity
+- Network Security
+- Ethical Hacking
+- Spring Boot Development
+
+🎯 Goal:
+To become a Security Engineer capable of building secure AI-powered systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- C
-- SQL
-- JavaScript
+### Programming Languages
 
-### Web Development
-- HTML
-- CSS
-- React JS
-- Node JS
-- Spring Boot
+Python • Java • C • SQL • JavaScript
 
-### Databases
-- SQLite
-- MySQL
+### Frontend
 
-### Tools & Platforms
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
-- Linux
+React.js • HTML5 • CSS3
 
----
+### Backend
 
-## 🚀 Current Focus
+Spring Boot • Node.js
 
-- Machine Learning
-- AI Projects
-- Cybersecurity Labs
-- Full Stack Development
-- Open Source Contributions
+### Database
+
+MySQL • SQLite
+
+### Tools
+
+Git • GitHub • VS Code • IntelliJ IDEA
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI Project
-Coming Soon...
+### 🌐 StudyFlow
 
-### 🔐 Cybersecurity Project
-Coming Soon...
+Student productivity platform designed to help learners organize and manage their study activities efficiently.
 
-### 🌐 Full Stack Project
-Study-Flow
+🔗 Live Demo:
+https://study-flow-sable.vercel.app/
+
+
+## 🌱 Current Learning Journey
+
+2026 Roadmap:
+
+✔ Full Stack Development
+
+🔄 Machine Learning
+
+🔄 Cybersecurity
+
+🔄 Cloud Security
+
+🔄 Penetration Testing
+
+🔄 Open Source Contributions
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhini-np&show_icons=true)
+🏅 Best NSS Volunteer Award
+
+🏅 National Integration Camp Participant – Assam
+
+🏅 3rd Place – Speech Competition
+
+🏅 Full Stack Java Internship
+
+🏅 Cybersecurity Internship
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/nandhini-priyadarshini-p-a14b432a0/
-- GitHub: https://github.com/nandhini-np
+GitHub:
+https://github.com/nandhini-np
 
+LinkedIn:
+https://www.linkedin.com/in/nandhini-priyadarshini-p-a14b432a0/
+
+---
+
+### ⚡ Quote
+
+"Technology becomes meaningful when intelligence and security work together."
